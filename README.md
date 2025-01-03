@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saiteja7360
+- 👋 Hi, I’m Saiteja Aerupula
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on Software Developers
-- 📫 How to reach me ... mail -aerpulasaiteja6@gmail.com
+- 💞️ I’m looking to collaborate with Software Developers
+- 📫 How to reach me ...here is my personal mail -aerpulasaiteja6@gmail.com
 
 <!---
 Saiteja7360/Saiteja7360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
