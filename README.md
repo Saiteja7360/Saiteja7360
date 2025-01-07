@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Saiteja Aerupula
+- 👋 Hi, I’m SaitejaAerupula
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Frontend technologies
 - 💞️ I’m looking to collaborate with Software Developers
 - 📫 How to reach me ...here is my personal mail -aerpulasaiteja6@gmail.com
 
